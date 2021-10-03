@@ -1,0 +1,16 @@
+main section{
+    text-align: justify;
+    padding: 1rem;
+}
+
+input, textarea{
+    margin: 1rem;
+}
+
+#submit{
+    background-color: #f2de7e; ;
+}
+
+.form-floating label{
+    padding-left: 2rem;
+}
